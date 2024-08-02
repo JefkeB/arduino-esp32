@@ -23,7 +23,7 @@ tools/esp32-arduino-libs
 /build
  
 # Ignore files built by Visual Studio/Visual Micro
-[Dd]ebug/
+#[Dd]ebug/
 [Rr]elease/
 .vs/
 __vm/
