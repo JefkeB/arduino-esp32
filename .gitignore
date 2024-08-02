@@ -1,16 +1,16 @@
-tools/xtensa-esp32-elf
+#tools/xtensa-esp32-elf
 tools/xtensa-esp32s2-elf
 tools/xtensa-esp32s3-elf
 tools/xtensa-esp-elf-gdb
 tools/riscv32-esp-elf
 tools/riscv32-esp-elf-gdb
 tools/dist
-tools/esptool
+#tools/esptool
 tools/esptool.exe
-tools/mkspiffs
+#tools/mkspiffs
 tools/mklittlefs
 tools/mkfatfs.exe
-tools/openocd-esp32
+#tools/openocd-esp32
 tools/esp32-arduino-libs
 
 # Ignore editor backup files and macOS system metadata
